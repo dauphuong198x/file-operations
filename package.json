@@ -1,12 +1,16 @@
 {
-  "name": "file-operations",
+  "name": "file-operations-dhp",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dauphuong198x/file-operations.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "dauphuong198x",
   "license": "ISC",
   "description": "",
   "dependencies": {
